@@ -1,0 +1,150 @@
+# Welcome
+
+This GitHub organization contains **private and internal repositories** used for my freelance and commission-based development work.
+
+Projects hosted here are typically:
+- Client-specific
+- Private by default
+- Structured for long-term scalability, maintainability, and security
+
+This organization acts as my **central workspace for professional software development**, including architecture design, implementation, testing, CI/CD, deployment, and long-term maintenance.
+
+---
+
+## Scope of Work
+
+Projects in this organization commonly include:
+
+- Web applications (frontend & backend)
+- Mobile applications
+- REST APIs and backend platforms
+- Automation systems and bots
+- Infrastructure tooling and deployment pipelines
+- Internal developer tooling
+- Authentication, authorization, and security systems
+
+---
+
+## Tech Stack
+
+### **Languages**
+<div>
+    
+[![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=.NET&logoColor=white)](https://dotnet.microsoft.com/languages/csharp)
+[![Typescript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org)
+[![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![CSS](https://img.shields.io/badge/CSS-663399?style=for-the-badge&logo=css&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)](https://kotlinlang.org)
+[![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)](https://dart.dev)
+    
+</div>
+
+### **Backend**
+<div>
+    
+[![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)](https://nestjs.com)
+[![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)](https://expressjs.com)
+[![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=.NET&logoColor=white)](https://dotnet.microsoft.com/apps/aspnet)
+
+</div>
+
+### **Web**
+<div>
+    
+[![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)](https://react.dev)
+[![SolidJS](https://img.shields.io/badge/Solid-2C4F7C?style=for-the-badge&logo=solid&logoColor=white)](https://www.solidjs.com)
+[![Angular](https://img.shields.io/badge/Angular-0F0F11?style=for-the-badge&logo=angular&logoColor=white)](https://angular.dev)
+[![Svelte](https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white)](https://svelte.dev)
+[![NextJS](https://img.shields.io/badge/NextJS-000000?style=for-the-badge&logo=next.js&logoColor=white)](https://nextjs.org)
+    
+</div>
+
+### **Mobile**
+<div>
+    
+[![React Native](https://img.shields.io/badge/React%20Native-61DAFB?style=for-the-badge&logo=react&logoColor=white)](https://reactnative.dev)
+[![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)](https://flutter.dev)
+[![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpackCompose&logoColor=white)](https://developer.android.com/jetpack/compose)
+
+</div>
+
+### **DevOps**
+<div>
+
+[![Github Actions](https://img.shields.io/badge/Github%20Actions-2088FF?style=for-the-badge&logo=githubActions&logoColor=white)](https://docs.github.com/actions)
+[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com)
+[![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)](https://kubernetes.io)
+    
+</div>
+
+### **Databases**
+<div>
+    
+[![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)](https://www.sqlite.org)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org)
+[![SurrealDB](https://img.shields.io/badge/SurrealDB-FF00A0?style=for-the-badge&logo=surrealdb&logoColor=white)](https://surrealdb.com)
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com)
+[![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com)
+    
+</div>
+
+### **Honorable Mentions**
+
+_Technologies frequently used in projects but not part of the core daily stack._
+
+<div>
+
+[![Discord.NET](https://img.shields.io/badge/Discord.NET-5865F2?style=for-the-badge&logo=.NET&logoColor=white)](https://discordnet.dev)
+[![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)](https://www.prisma.io)
+[![EntityFrameworkCore](https://img.shields.io/badge/EntityFrameworkCore-512BD4?style=for-the-badge&logo=.NET&logoColor=white)](https://learn.microsoft.com/ef/core)
+[![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white)](https://mongoosejs.com)
+[![Expo SDK](https://img.shields.io/badge/Expo%20SDK-1C2024?style=for-the-badge&logo=expo&logoColor=white)](https://expo.dev)
+[![Godot](https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godotengine&logoColor=white)](https://godotengine.org)
+[![TailwindCSS](https://img.shields.io/badge/TailwindCSS%20%26%20NativeWind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)](https://tailwindcss.com)
+    
+</div>
+
+### **Also Familiar With**
+
+_Languages and tools I can comfortably work with but that are not part of my daily stack._
+
+<div>
+    
+[![Java](https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=white)](https://www.oracle.com/java/)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org)
+[![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)](https://www.gnu.org/software/bash/)
+[![Batch](https://img.shields.io/badge/Batch-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)](https://learn.microsoft.com/windows-server/administration/windows-commands/windows-commands)
+[![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net)
+
+</div>
+
+---
+
+## Access & Collaboration
+
+Repositories within this organization are **private by default**.
+
+Access is granted only to:
+- Active clients
+- Contract collaborators
+- Approved contributors
+
+If you are a client and require repository access, please contact me via one of the platforms below.
+
+---
+
+## Professional Inquiries
+
+<div align="center">
+  
+  [![Hire me on Upwork](https://img.shields.io/badge/Hire%20Me%20On%20Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white)](https://upwork.com/freelancers/~0167fb718f2b74dcd6)
+  <strong>or</strong>
+  [![Support me on Kofi](https://img.shields.io/badge/Support%20Me%20On%20Kofi-FF6433?style=for-the-badge&logo=kofi&logoColor=white)](https://ko-fi.com/fabiothefox)
+  <strong>or</strong>
+  [![Hire me on Fiverr](https://img.shields.io/badge/Hire%20Me%20On%20Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white)](https://fiverr.com/fabidevservices)
+  
+</div>
+
+---
+
+> This organization exists to ensure clean project separation, professional collaboration, secure code management, and reliable long-term maintenance.
